@@ -1,0 +1,10 @@
+@R0
+D=A
+@R1
+M=D
+@SCREEN
+D=A
+@KBD
+D=A
+@SP
+D=A
